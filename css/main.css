@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+}
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    margin: 0 auto;
+    
+}
+button{
+    background-color: gray;
+    color: white;
+}
+button:hover{
+    background-color: white;
+    color: gray;
+}
